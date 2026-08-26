@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+fast+and+modern+web+apps" />
 </p>
-
+![](https://komarev.com/ghpvc/?username=wasiqkhan)
 ---
 
 ## 👋 About Me
